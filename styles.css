@@ -45,7 +45,4 @@ footer {
     padding: 15px;
     background-color: #4CAF50; /* 頁尾背景色 */
     color: white;
-    position: relative;
-    bottom: 0;
-    width: 100%; /* 使頁尾寬度佔滿 */
 }
